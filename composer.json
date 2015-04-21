@@ -1,0 +1,15 @@
+{
+    "name": "devel777/books-library",
+    "description": "",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "MyName",
+            "email": "mail@mail.com"
+        }
+    ],
+    "require": {
+        "phalcon/devtools": "dev-master"
+    }
+}
